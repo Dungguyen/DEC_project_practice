@@ -1,0 +1,17 @@
+# config/config.yaml
+database:
+  type: postgresql  # Thay đổi từ sqlserver sang postgresql
+  host: localhost
+  port: 5432        # Cổng mặc định của PostgreSQL
+  database: EmployeeDB
+  user: postgres    # Username mặc định của PostgreSQL
+  password: 123456  # Thay bằng mật khẩu của bạn
+
+logging:
+  level: INFO
+  file: data/output/logs/etl.log
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+paths:
+  input: data/input/employees.json
+  output: data/output/

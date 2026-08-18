@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department":"Marketing",
+        "salary": 50000,
+        "join_date": "2022-01-01"
+    },
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department":"Marketing",
+        "salary": 50000,
+        "join_date": "2022-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "department":"Finance",
+        "salary": 60000,
+        "join_date": "2022-01-15"
+    },
+    {
+        "id": 3,
+        "name": "Mark Johnson",
+        "department":"Finance",
+        "salary": 75000,
+        "join_date": "2023-02-28"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "department":"HR",
+        "salary": 55000,
+        "join_date": "2020-11-10"
+    },
+    {
+        "id": 5,
+        "name": "Chris Wilson",
+        "department":"IT",
+        "salary": 80000,
+        "join_date": "2019-07-22"
+    }
+]
